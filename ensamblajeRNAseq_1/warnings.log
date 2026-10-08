@@ -1,0 +1,8 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:15.165    12M / 73M   WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 5
+ * 0:00:15.170    12M / 73M   WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 5
+ * 0:00:11.962    17M / 73M   WARN    General                 (kmer_coverage_model.cpp   : 218)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:00:15.328    17M / 73M   WARN    General                 (kmer_coverage_model.cpp   : 327)   Valley value was estimated improperly, reset to 3
+ * 0:00:15.331    17M / 73M   WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 3
+======= Warnings saved to /mnt/c/Users/deomo/OneDrive/Escritorio/bioinformatica/data/ensamblajeRNAseq_1/warnings.log
